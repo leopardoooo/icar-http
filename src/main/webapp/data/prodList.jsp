@@ -2,8 +2,8 @@
     pageEncoding="UTF-8"%>
     
     <%
-    System.out.println("start: " = request.getParameter("start"));
-    System.out.println("limit: " = request.getParameter("limit"));
+    System.out.println("start: " + request.getParameter("start"));
+    System.out.println("limit: " + request.getParameter("limit"));
     %>
 {
 	"start": <%=request.getParameter("start") %>,
