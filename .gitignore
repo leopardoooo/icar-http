@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-ass
-=======
 *.class
->>>>>>> 595adc01af8ddf9c53c6f6d0e839e7bb44e5f766
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -35,7 +32,3 @@ release.properties
 # LOG #
 .LOG
 .log
-<<<<<<< HEAD
-
-=======
->>>>>>> 595adc01af8ddf9c53c6f6d0e839e7bb44e5f766
